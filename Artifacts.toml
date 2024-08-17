@@ -1,0 +1,124 @@
+[[systemtap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c12fcc48189538ca39fdebf907a3a2c298ebdb11"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "dee2fccf782a0e695a3d2e2ad3a6a8a7640961d4b73bae753c6629e6651a3413"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "277d469a6bfc3804cd19d18a9fa0017eae3f9942"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "50a968e7b59bcd8d010e02e7f95f75b7210738817016b8f1d2e60e6c9a12e99b"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6741ce3bea3ba45e52aa613c8c767d00e96b342a"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "8aff8bef3bfd66a36ac3e35886b644136229105c2db2ad20bfec76e396f8eac6"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[systemtap]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fea74812a0d95eeff68b0a45657fc01cd1e7c80"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "d8583d5d392378d468b28e2e16c342f55a49976803a47701722f57967dc6ec42"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[systemtap]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "142d840778b7e00ad38a4f79131731167e5ef452"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "239363aa042848db8ac0df4cc4bbe37f77f67ff3d62004cc6d6a19f4320fa24e"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[systemtap]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebb74bf5874be8c54bd8ca28bd5056797a524861"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "7cf3792716367c147db90f3758c4f84f973208c07f7957e694436b6665c7722a"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[systemtap]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6126ac3e7820a56e09ca6825eabacc984c6e5902"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "0d3c5a36b63aa6ccd9056251da2ca06e5f891d01d4898ff5cbcfa723f2fd747b"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.i686-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "add4913cff7a8e074fae8c0336d7425deb382fc4"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "8b5a56820d96259bbc4e947e395f33225d6572fdb0095f65f749251ef70879e7"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.i686-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15ffc85107427916b5b14dce64c40fecd4b882ef"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "b2d33dedc42f935f50c88200e2713823ea3245deddd3f93ad7874581f58c0a40"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bd4720f697a7cbf8af9fb47aee9f9931d9a4470"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "5db4f54b79ab806a555384e26d93bf5e4daa2e4a86a8c952e3ff6b8120125db7"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2cd6c35203f3b8c689e8c6eb530098e2e2a856b2"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "6711d5c4219a3085a2fefcfe2d9bdf2f5991cb92ec7b73e1a6fbb2ac5135f160"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b96362cbbf3d363cfb3fe994485d1a6e4ff3ce95"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "1e9f0131a5ccca3308886320294b1b9c5f21a0891fac9c68b09f5eb68f8a3a28"
+    url = "https://github.com/JuliaBinaryWrappers/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.x86_64-linux-gnu-cxx11.tar.gz"
